@@ -3,7 +3,7 @@
 ## 1. Отчет Checkstyle
 
 ### Скриншот Checkstyle
-!{https://github.com/Grusheviy/Unit-tests/blob/3e61d3e0e39017142c9c2c45cefbf4dc89834350/Final_Task/list_average_comparator/images/CheckStyle.jpg}
+![](https://github.com/Grusheviy/Unit-tests/blob/3e61d3e0e39017142c9c2c45cefbf4dc89834350/Final_Task/list_average_comparator/images/CheckStyle.jpg)
 
 ### Объяснение
    1. **Скрытые поля**: Поля 'list1' и 'list2' в классе ListComparator
