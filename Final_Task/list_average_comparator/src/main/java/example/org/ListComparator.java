@@ -23,12 +23,12 @@ public class ListComparator {
   /**
    * Конструктор класса ListComparator.
    *
-   * @param inputlist1 Первый список чисел.
-   * @param inputlist2 Второй список чисел.
+   * @param inputList1 Первый список чисел.
+   * @param inputList2 Второй список чисел.
    */
-  public ListComparator(final double[] inputlist1, final double[] inputlist2) {
-    this.list1 = inputlist1;
-    this.list2 = inputlist2;
+  public ListComparator(final double[] inputList1, final double[] inputList2) {
+    this.list1 = inputList1;
+    this.list2 = inputList2;
     this.calculator = new ListCalculator();
   }
 

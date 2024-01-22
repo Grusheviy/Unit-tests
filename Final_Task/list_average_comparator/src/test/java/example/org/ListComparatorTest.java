@@ -8,8 +8,6 @@ import org.junit.jupiter.api.Test;
  * Тестовый класс для проверки функциональности {@link ListComparator}.
  */
 public class ListComparatorTest {
-
-
   /**
    * Тест для сравнения списков, когда второй список
    * имеет большее среднее значение.
