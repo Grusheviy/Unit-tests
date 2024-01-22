@@ -20,7 +20,7 @@
 ## 2. Отчет о покрытии тестами
 
 ### Скриншоты run with coverage
-![Image alt]((https://github.com/Grusheviy/Unit-tests/blob/dc2c78d4a651da0df1039204236d0985b6c12e18/Final_Task/list_average_comparator/images/Test_coverage.jpg))
+![]((https://github.com/Grusheviy/Unit-tests/blob/dc2c78d4a651da0df1039204236d0985b6c12e18/Final_Task/list_average_comparator/images/Test_coverage.jpg))
 
 ### Объяснение
 1. Тестирование **calculateAverage** в ListCalculator: 
